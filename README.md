@@ -18,7 +18,8 @@
 ### I used Azure Databricks and PySpark for transformations on the data and stored it in another container on Azure Data Lake Gen2.
 
 
-![Dtaabricks - transformation](https://github.com/AliMuhammad229/Tokyo-Olympic-azure-DE-Project/assets/47716529/367e1cc2-22cb-4850-8997-5c3c16dd63f6)
+![Dtaabricks - transformation_01](https://github.com/AliMuhammad229/Tokyo-Olympic-azure-DE-Project/assets/47716529/3cbfa9ad-564f-48f6-aab8-1e24d352644d)
+
 
 
 ## Step 3: Illuminating Insights through Azure Synapse Analytics Alchemy 💡🔍
