@@ -31,7 +31,7 @@
 
 
 ## Step 4: Crafting Data Symphonies with Azure Synapse Workspace, Power BI, and Tokyo Olympics 2020 Insights 🎨📊
-### connected Azure Synapse Workspace to Power BI Desktop and created a dashboard that shows the trends and patterns of the Tokyo Olympics 2020 activity. 📊
+### connected Azure Synapse Workspace to Power BI Desktop and created a dashboard that shows the trends and patterns of  the Tokyo Olympics 2020 activity. 📊
 
 
 ![Modelling](https://github.com/AliMuhammad229/Tokyo-Olympic-azure-DE-Project/assets/47716529/91cab9ef-04f2-45dc-8e5e-4e0da5c62715)
